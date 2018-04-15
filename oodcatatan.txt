@@ -1,0 +1,3 @@
+siswa 10 ad
+pengajar 12 ad
+admin 12 ad
